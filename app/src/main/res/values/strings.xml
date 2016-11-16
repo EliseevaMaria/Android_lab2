@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="colorpicker">Color Picker</string>
+    <string name="calculator">Calculator</string>
+    <string name="notes">Notes</string>
+    <string name="create">Create</string>
+    <string name="note">Note</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="picture">Picture</string>
+
+    <string name="fillemptyfields">Fill empty fields</string>
+    <string name="nopic">There is no picture in this note</string>
+
+    <string name="importance">Importance</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="none">None</string>
+    <string name="tofilter">Filter</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+</resources>
